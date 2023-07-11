@@ -18,7 +18,7 @@ This project aims to demonstrate how to use the K-Means algorithm to perform cus
 # Getting Started
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
-2. Install the required dependencies (see requirements.txt).
+2. Install the required dependencies (see [requirements.txt](https://github.com/edilauxillea/Customer-Segmentation/blob/main/requirements.txt)).
 3. Prepare your customer data (see [Data Preparation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#data-preparation)).
 4. Train the K-Means model (see [Model Training](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#model-training)).
 5. Evaluate the segmentation results (see [Evaluation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#evaluation)).
