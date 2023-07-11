@@ -56,6 +56,7 @@ Evaluating the quality of customer segmentation is important to assess the effec
 - Silhouette coefficient
 - Dunn index
 - Davies-Bouldin index
+
 Choose one or more evaluation metrics suitable for your specific problem and calculate them using the cluster assignments obtained from the K-Means algorithm.
 
 # Results
