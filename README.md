@@ -39,7 +39,6 @@ Here are some general steps for data preparation:
 2. Perform necessary preprocessing steps such as data cleaning, normalization, or handling missing values.
 3. Extract relevant features from the data that can be used for clustering.
 4. Convert the data into a suitable format for the K-Means algorithm.
-5. For more detailed instructions on data preparation, refer to the data_prep.md file in this repository.
 
 # Model Training
 To train the K-Means model on your customer data, you can use the KMeans class provided by popular machine learning libraries such as scikit-learn. Here are the general steps for training the model:
