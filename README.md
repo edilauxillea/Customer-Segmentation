@@ -3,14 +3,13 @@ Customer Segmentation using K-Means Algorithm
 This repository contains code and resources for performing customer segmentation using the K-Means clustering algorithm. Customer segmentation is a technique used to divide a customer base into groups or segments based on shared characteristics or behaviors. K-Means is a popular unsupervised learning algorithm that is widely used for clustering tasks.
 
 # Table of Contents
-- [Introduction](https://github.com/edilauxillea/Customer-Segmentation/main/README.md#introduction)
-- [Getting Started](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#getting-started)
-- [Usage](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#usage)
-- [Data Preparation](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#data-preparation)
-- [Model Training](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#model-training)
-- [Evaluation](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#evaluation)
-- [Results](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#results)
-- [References](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#references)
+- [Introduction](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#introduction)
+- [Getting Started](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#getting-started)
+- [Usage](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#usage)
+- [Data Preparation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#data-preparation)
+- [Model Training](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#model-training)
+- [Evaluation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#evaluation)
+- [Results](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#results)
 
 # Introduction
 Customer segmentation is an important task in marketing and customer analytics. It allows businesses to understand their customers better, identify different customer groups, and tailor their marketing strategies accordingly. K-Means clustering is a simple yet powerful algorithm for grouping similar data points together.
@@ -20,9 +19,9 @@ This project aims to demonstrate how to use the K-Means algorithm to perform cus
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies (see requirements.txt).
-3. Prepare your customer data (see Data Preparation).
-4. Train the K-Means model (see Model Training).
-5. Evaluate the segmentation results (see Evaluation).
+3. Prepare your customer data (see [Data Preparation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#data-preparation)).
+4. Train the K-Means model (see [Model Training](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#model-training)).
+5. Evaluate the segmentation results (see [Evaluation](https://github.com/edilauxillea/Customer-Segmentation/blob/main/README.md#evaluation)).
 
 # Usage
 The main code file for performing customer segmentation is customer_segmentation.py. You can run this file using the following command:
@@ -53,14 +52,11 @@ To train the K-Means model on your customer data, you can use the KMeans class p
 
 # Evaluation
 Evaluating the quality of customer segmentation is important to assess the effectiveness of the clustering algorithm. There are several metrics you can use to evaluate the results, such as:
-
-Within-cluster sum of squares (WCSS)
-Silhouette coefficient
-Dunn index
-Davies-Bouldin index
+- Within-cluster sum of squares (WCSS)
+- Silhouette coefficient
+- Dunn index
+- Davies-Bouldin index
 Choose one or more evaluation metrics suitable for your specific problem and calculate them using the cluster assignments obtained from the K-Means algorithm.
-
-For more information on evaluation metrics and how to calculate them, refer to the evaluation.md file in this repository.
 
 # Results
 After evaluating the segmentation results, you can analyze and interpret the clusters to gain insights into your customer base. Visualizations such as pie charts, scatter plots, bar charts, or heatmaps can help in understanding the characteristics of each cluster. Document the key findings, patterns, or trends observed in each cluster. This information can be used to develop targeted marketing strategies, personalize customer experiences, or make informed business decisions.
