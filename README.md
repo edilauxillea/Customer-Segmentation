@@ -3,7 +3,7 @@ Customer Segmentation using K-Means Algorithm
 This repository contains code and resources for performing customer segmentation using the K-Means clustering algorithm. Customer segmentation is a technique used to divide a customer base into groups or segments based on shared characteristics or behaviors. K-Means is a popular unsupervised learning algorithm that is widely used for clustering tasks.
 
 # Table of Contents
-- (Introduction)[https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#introduction]
+- [Introduction](https://github.com/edilauxillea/Customer-Segmentation/main/README.md#introduction)
 - [Getting Started](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#getting-started)
 - [Usage](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#usage)
 - [Data Preparation](https://github.com/edilauxillea/Customer-Segmentation/edit/main/README.md#data-preparation)
